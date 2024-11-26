@@ -2,7 +2,7 @@
   "items": [
     {
       "text": "Getting Started",
-      "path": "getting-started.md"
+      "path": "../Doc/getting-started.md"
     },
     {
       "text": "Dashboard",
