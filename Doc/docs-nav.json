@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "text": "Getting Started",
+      "path": "getting-started.md"
+    },
+    {
+      "text": "Dashboard",
+      "path": "Dashboard/Dashboard.md"
+    },
+    {
+      "text": "Administration",
+      "path": "administration/administration.md",
+      "items": [
+        {
+          "text": "Basic Setup",
+          "path": "administration/basic-setup/company.md",
+          "items":[
+            {
+              "text":"Company",
+              "path":"administration/basic-setup/company.md"
+            },
+            {
+              "text":"Sponsorship Company",
+              "path":"administration/basic-setup/sponsorship-company.md"
+            },
+            {
+              "text":"User",
+              "path":"administration/basic-setup/user.md"
+            },
+            {
+              "text":"User Permission",
+              "path":"administration/basic-setup/user-permission.md"
+            },
+            {
+              "text":"Bank",
+              "path":"administration/basic-setup/bank.md"
+            },
+            {
+              "text":"Financial Period",
+              "path":"administration/basic-setup/financial-period.md"
+            },
+            {
+              "text":"Document Sequence",
+              "path":"administration/basic-setup/document-sequence.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "administration/activity/activity.md",
+          "items": [ 
+            {
+              "text": "Finalized Quotation",
+              "path": "administration/activity/finalized-quotation.md"
+            },
+            {
+              "text": "Workflow",
+              "path": "administration/activity/workflow.md"
+            }
+          ]
+        },
+        {
+          "text": "Report",
+          "path": "administration/report/activity-report.md",
+          "items": [
+            {
+              "text": "Activity Report",
+              "path": "administration/report/activity-report.md"
+            }
+          ]
+        },
+        {
+          "text": "Settings",
+          "path": "administration/settings/settings.md"
+        }
+      ]
+    },
+    {
+      "text": "Accounts",
+      "path": "accounts/basic/Cost Center.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "accounts/basic/Cost Center.md",
+          "items": [
+            {
+              "text": "Cost Center",
+              "path": "accounts/basic/Cost Center.md"
+            },
+            {
+              "text": "Chart of Accounts",
+              "path": "accounts/basic/Chart of Accounts.md"
+            },
+            {
+              "text": "Documents",
+              "path": "accounts/basic/Documents.md"
+            },
+            {
+              "text": "Opening Balance",
+              "path": "accounts/basic/Opening Balance.md"
+            },
+            {
+              "text": "Opening Invoice",
+              "path": "accounts/basic/Opening Invoice.md"
+            },
+            {
+              "text": "Nature of Expenses",
+              "path": "accounts/basic/Nature of Expenses.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "accounts/activity/Journal Entry.md",
+          "items": [
+            {
+              "text": "Journal Entry",
+              "path": "accounts/activity/Journal Entry.md"
+            },
+            {
+              "text": "Receipt",
+              "path": "accounts/activity/Receipt.md"
+            },
+            {
+              "text": "Payments",
+              "path": "accounts/activity/Payments.md"
+            },
+            {
+              "text": "Petty Cash",
+              "path": "accounts/activity/Petty Cash.md"
+            },
+            {
+              "text": "Employee Payments",
+              "path": "accounts/activity/Employee Payments.md"
+            }
+          ]
+        },
+        {
+          "text": "Reports",
+          "path": "accounts/reports/Trial Balance.md",
+          "items": [
+            {
+              "text": "Trial Balance",
+              "path": "accounts/reports/Trial Balance.md"
+            }
+          ]
+        },
+        {
+          "text": "Settings",
+          "path": "accounts/settings/Account Settings.md",
+          "items": [
+            {
+              "text": "Account Settings",
+              "path": "accounts/settings/Account Settings.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
